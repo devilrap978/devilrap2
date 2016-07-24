@@ -28,7 +28,7 @@ git clone https://github.com/devilrap978.git
 
 #step4 : Writ >
 
-cd devilrap978
+cddevilrap978
 
 
 
