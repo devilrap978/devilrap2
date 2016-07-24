@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-THIS_DIR=$(cd devilrap2); pwd)
+THIS_DIR=$(cd devilrap979); pwd)
 cd $THIS_DIR
 
 update() {
